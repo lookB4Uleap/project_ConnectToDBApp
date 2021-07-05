@@ -31,6 +31,10 @@ local.properties
 *.iml
 *.hprof
 
+__tests__
+.buckconfig
+
+
 # node.js
 #
 node_modules/
